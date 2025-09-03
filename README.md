@@ -18,6 +18,4 @@ Doctors/clinicians can:
 - **Flask** (REST API)
 - **Grad-CAM** for explainability
 
----
 
-##  Repo Structure
