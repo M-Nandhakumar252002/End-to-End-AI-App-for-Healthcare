@@ -1,0 +1,11 @@
+
+###  `requirements.txt`
+```txt
+numpy
+opencv-python
+Pillow
+matplotlib
+tensorflow>=2.8
+streamlit
+flask
+gunicorn
